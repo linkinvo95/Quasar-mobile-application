@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src-electron",
+    "\\src-electron\\icons",
+    "\\src-electron\\main-process",
+    "\\src\\layouts",
+    "\\src\\router",
+    "\\src\\store",
+    "\\src\\store\\module-example"
+  ],
+  "SelectedNode": "\\src\\App.vue",
+  "PreviewInSolutionExplorer": false
+}
